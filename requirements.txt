@@ -1,2 +1,6 @@
 pyahocorasick
 loguru
+faster-whisper
+modelscope
+
+

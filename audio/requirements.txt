@@ -1,0 +1,9 @@
+torchaudio
+funasr
+torch>=1.13
+Werkzeug==2.3.7
+Flask==2.2.2
+flask_sockets
+websocket-client==0.44.0
+soundfile
+
